@@ -1,18 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.9.14)  14 SEP 2025 15:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.9.14)  14 SEP 2025 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./cv.tex
 (cv.tex
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-20>
-
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ar
-ticle.cls
+L3 programming layer <2025-08-13>
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/si
-ze12.clo
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
@@ -26,9 +22,7 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-)
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url
-.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -40,8 +34,8 @@ Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 ns/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s/keyval.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.s
+ty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
@@ -53,41 +47,40 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 ys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbo
-x/etoolbox.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox
+.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count283
 ))
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s/color.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.st
+y
 Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s-cfg/color.cfg
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/colo
+r.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s-def/pdftex.def
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdft
+ex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 )
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s/mathcolor.ltx))
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s/graphicx.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolo
+r.ltx))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx
+.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s/graphics.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics
+.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s/trig.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s-cfg/graphics.cfg
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/grap
+hics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
@@ -95,12 +88,11 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
 )
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/
-xcolor.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s-cfg/color.cfg
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/colo
+r.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 
@@ -110,8 +102,8 @@ put line 265.
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 LaTeX Info: Redefining \color on input line 762.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s/mathcolor.ltx)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolo
+r.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -122,20 +114,19 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphic
-s/dvipsnam.def
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/dvipsnam
+.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
 (/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometr
 y/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex
-/ifvtex.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.st
+y
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex
-/iftex.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count284
@@ -153,12 +144,10 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 
 (/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometr
 y/geometry.cfg))
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/t
-abularx.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/tabularx.st
+y
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/a
-rray.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \col@sep=\dimen159
 \ar@mcellbox=\box53
@@ -220,8 +209,8 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidthlast=\dimen180
 \titlewidthfirst=\dimen181
 )
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/m
-ulticol.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/multicol.st
+y
 Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
 \c@tracingmulticols=\count291
 \mult@box=\box58
@@ -300,12 +289,12 @@ Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@dima=\skip63
 \bigstrutjot=\dimen191
 )
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblate
-x/biblatex.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex
+.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfte
-xcmds/pdftexcmds.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdft
+excmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
@@ -326,8 +315,7 @@ Package: logreq 2010/08/04 v1.0 xml request logger
 logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/if
-then.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 \c@tabx@nest=\count304
@@ -390,8 +378,8 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblate
-x/blx-dm.def
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-dm.d
+ef
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -483,15 +471,15 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblate
-x/blx-compat.def
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-comp
+at.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblate
-x/biblatex.def
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex
+.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 \c@textcitecount=\count418
 \c@textcitetotal=\count419
@@ -510,14 +498,14 @@ File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblate
-x/bbx/authoryear.bbx
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/auth
+oryear.bbx
 File: authoryear.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblate
-x/bbx/standard.bbx
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/stan
+dard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count427
 \c@bbx:relatedtotal=\count428
@@ -525,8 +513,8 @@ File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblate
-x/cbx/authoryear.cbx
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/cbx/auth
+oryear.cbx
 File: authoryear.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -539,37 +527,37 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblate
-x/biblatex.cfg
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex
+.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kerne
-l/expl3.sty
-Package: expl3 2025-07-20 L3 programming layer (loader) 
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.st
+y
+Package: expl3 2025-08-13 L3 programming layer (loader) 
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backe
-nd/l3backend-pdftex.def
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backe
+nd-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count429
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2025-07-20 L3 programming layer (loader) 
+(biblatex)             2025-08-13 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblate
-x/blx-case-expl3.sty
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packa
-ges/xparse/xparse.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-case
+-expl3.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse
+/xparse.sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 ))
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperre
-f/hyperref.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref
+.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
 (/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdef
@@ -584,8 +572,8 @@ Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 /hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperre
-f/nameref.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.
+sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
 
 (/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcoun
@@ -607,8 +595,8 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 \Hy@linkcounter=\count431
 \Hy@pagecounter=\count432
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperre
-f/pd1enc.def
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.d
+ef
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
@@ -619,8 +607,8 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count433
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperre
-f/puenc.def
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.de
+f
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -663,8 +651,8 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperre
-f/hpdftex.def
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.
+def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count439
 \c@bookmark@seq@number=\count440
@@ -689,8 +677,8 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 90.
 some5/fontawesome5.sty
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packa
-ges/l3keys2e/l3keys2e.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/l3keys
+2e/l3keys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 (/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontawe
@@ -724,8 +712,8 @@ LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/
-mkii/supp-pdf.mkii
+(/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-
+pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count443
 \scratchdimen=\dimen196
@@ -739,14 +727,14 @@ mkii/supp-pdf.mkii
 \makeMPintoPDFobject=\count448
 \everyMPtoPDFconversion=\toks24
 )
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopd
-f-pkg/epstopdf-base.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epst
+opdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00mikte
-x/epstopdf-sys.cfg
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf
+-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -786,8 +774,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblate
-x/lbx/english.lbx
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/lbx/engl
+ish.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -817,7 +805,7 @@ Package tabularx Warning: X Columns too narrow (table too wide)
 (tabularx)                 on input line 167.
 
 
-Overfull \hbox (55.41762pt too wide) in alignment at lines 167--167
+Overfull \hbox (97.09123pt too wide) in alignment at lines 167--167
 [][][] 
  []
 
@@ -839,7 +827,7 @@ Package biblatex Info: Reference section=0 on input line 198.
 tex.map}] (cv.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-20>
+L3 programming layer <2025-08-13>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: E2114D4F13A775259A95FD6ACC5D5754;463.
@@ -848,10 +836,10 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21010 strings out of 469928
- 387149 string characters out of 5475550
- 1224733 words of memory out of 5000000
- 49206 multiletter control sequences out of 15000+600000
+ 21010 strings out of 469927
+ 386029 string characters out of 5476722
+ 1227780 words of memory out of 5000000
+ 49207 multiletter control sequences out of 15000+600000
  632521 words of font info for 59 fonts, out of 8000000 for 9000
  63 hyphenation exceptions out of 8191
  63i,9n,71p,1197b,1334s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -862,18 +850,17 @@ tion Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome5/fa5brands0.enc}
 </Users/sam/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/publi
 c/fontawesome5/FontAwesome5Brands-Regular.pfb></Users/sam/Library/Application S
 upport/MiKTeX/texmfs/install/fonts/type1/public/fontawesome5/FontAwesome5Free-S
-olid.pfb></Users/sam/Library/Application Support/MiKTeX/texmfs/install/fonts/ty
-pe1/public/amsfonts/cm/cmbx12.pfb></Users/sam/Library/Application Support/MiKTe
-X/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/sam/Library
-/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></Users/sam/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
-public/amsfonts/cm/cmr12.pfb></Users/sam/Library/Application Support/MiKTeX/tex
-mfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Users/sam/Library/Applic
-ation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-/Users/sam/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public
-/amsfonts/cm/cmti12.pfb></Users/sam/Library/Application Support/MiKTeX/texmfs/i
-nstall/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on cv.pdf (1 page, 156237 bytes).
+olid.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fon
+ts/type1/public/amsfonts/cm/cmcsc10.pfb></Library/Application Support/MiKTeX/te
+xmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Sup
+port/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/A
+pplication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.p
+fb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb></Library/Application Support/MiKTeX/texmfs/in
+stall/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on cv.pdf (1 page, 157777 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
