@@ -1,0 +1,13 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'cv.blg'
+[98] biber-darwin:342> INFO - === Sun Sep 14, 2025, 14:57:47
+[133] Biber.pm:421> INFO - Reading 'cv.bcf'
+[275] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[275] Biber.pm:1002> INFO - Found 1 citekeys in bib section 1
+[276] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[298] Biber.pm:4487> INFO - Processing section 1
+[309] Biber.pm:4678> INFO - Looking for bibtex file 'citations.bib' for section 1
+[318] bibtex.pm:1713> INFO - LaTeX decoding ...
+[324] bibtex.pm:1519> INFO - Found BibTeX data source 'citations.bib'
+[333] Utils.pm:479> ERROR - BibTeX subsystem: /var/folders/kv/m587c6jj40j3jy9f1q2mg9lh0000gn/T/biber_tmp_naA_/56f1c414433802ad7930cb94138c5670_38959.utf8, line 6, syntax error: found "2", expected one of: name (entry type, key, field, or macro name) or end of entry ("}" or ")")
+[333] Biber.pm:137> INFO - ERRORS: 1
