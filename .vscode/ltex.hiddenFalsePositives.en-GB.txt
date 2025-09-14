@@ -1,0 +1,1 @@
+{"rule":"OXFORD_SPELLING_Z_NOT_S","sentence":"^\\QDocker/OCI Able to utilise Docker and OCI for containerization and orchestration in server environments.\\E$"}
