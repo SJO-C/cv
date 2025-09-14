@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.9.14)  14 SEP 2025 15:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.9.14)  14 SEP 2025 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -814,9 +814,7 @@ Package biblatex Info: Reference section=0 on input line 200.
 [1
 
 {/Users/sam/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdf
-tex.map}]
-
-[2] (cv.aux)
+tex.map}] (cv.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
@@ -828,10 +826,10 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21011 strings out of 469927
- 386035 string characters out of 5476722
+ 21009 strings out of 469927
+ 386024 string characters out of 5476722
  1228780 words of memory out of 5000000
- 49207 multiletter control sequences out of 15000+600000
+ 49206 multiletter control sequences out of 15000+600000
  632521 words of font info for 59 fonts, out of 8000000 for 9000
  63 hyphenation exceptions out of 8191
  63i,9n,71p,1197b,1334s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -845,16 +843,15 @@ upport/MiKTeX/texmfs/install/fonts/type1/public/fontawesome5/FontAwesome5Free-S
 olid.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public
 /amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fon
 ts/type1/public/amsfonts/cm/cmcsc10.pfb></Library/Application Support/MiKTeX/te
-xmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Sup
-port/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/A
-pplication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.p
-fb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/typ
-e1/public/amsfonts/cm/cmti12.pfb></Library/Application Support/MiKTeX/texmfs/in
-stall/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on cv.pdf (2 pages, 158251 bytes).
+xmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Sup
+port/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/A
+pplication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
+onts/cm/cmti12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/ty
+pe1/public/amsfonts/cm/cmtt12.pfb>
+Output written on cv.pdf (1 page, 143433 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
