@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.9.14)  14 SEP 2025 14:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.9.14)  14 SEP 2025 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,23 +812,25 @@ some5/ufontawesomebrands0.fd)
 some5/ufontawesomefree1.fd)
 (/Users/sam/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontawe
 some5/ufontawesomefree2.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 166--170
+
+Package tabularx Warning: X Columns too narrow (table too wide)
+(tabularx)                 on input line 166.
+
+
+Overfull \hbox (55.41762pt too wide) in alignment at lines 166--166
+[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
 
  []
 
 \blx@maxsegment@1=\count449
 \blx@sectionciteorder@1=\count450
-Package biblatex Info: Reference section=1 on input line 195.
-Package biblatex Info: Setting label 'refsection:1' on input line 195.
-! Undefined control sequence.
-l.196 \citep
-            {sfm2024}
-? s
-OK, entering \scrollmode...
-
-LaTeX Warning: Empty bibliography on input line 197.
-
-Package biblatex Info: Reference section=0 on input line 198.
+Package biblatex Info: Reference section=1 on input line 194.
+Package biblatex Info: Setting label 'refsection:1' on input line 194.
+Package biblatex Info: Reference section=0 on input line 197.
 
 
 [1
@@ -839,29 +841,20 @@ tex.map}] (cv.aux)
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: E2114D4F13A775259A95FD6ACC5D5754;463.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                cv
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20783 strings out of 469928
- 382538 string characters out of 5475550
- 1220693 words of memory out of 5000000
- 48982 multiletter control sequences out of 15000+600000
- 631704 words of font info for 56 fonts, out of 8000000 for 9000
+ 21010 strings out of 469928
+ 387149 string characters out of 5475550
+ 1221733 words of memory out of 5000000
+ 49206 multiletter control sequences out of 15000+600000
+ 632521 words of font info for 59 fonts, out of 8000000 for 9000
  63 hyphenation exceptions out of 8191
- 63i,9n,71p,1197b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,9n,71p,1197b,1332s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/sam/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips
 /fontawesome5/fa5free2.enc}{/Users/sam/Library/Application Support/MiKTeX/texmf
 s/install/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/Users/sam/Library/Applica
@@ -876,10 +869,13 @@ X/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/sam/Library
 .pfb></Users/sam/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
 public/amsfonts/cm/cmr12.pfb></Users/sam/Library/Application Support/MiKTeX/tex
 mfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Users/sam/Library/Applic
-ation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (1 page, 130171 bytes).
+ation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/Users/sam/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public
+/amsfonts/cm/cmti12.pfb></Users/sam/Library/Application Support/MiKTeX/texmfs/i
+nstall/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on cv.pdf (1 page, 155739 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
+ 103 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
